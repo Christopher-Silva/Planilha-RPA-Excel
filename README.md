@@ -1,2 +1,2 @@
 # Planilha-RPA-Excel
-Planilha de automação de processos com Excel para relatório de pagamentos autônomos. 
+Projeto prático do curso de Excel para a criação de uma planilha de automação de processos para relatório de pagamentos autônomos. 
